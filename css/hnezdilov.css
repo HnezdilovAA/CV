@@ -3,7 +3,7 @@ body {
     color: #333;
     font-size: 16px;
     font-weight: 400;
-    letter-spacing: 0.6px;
+    letter-spacing: 0.2px;
   }
   
   .section {
@@ -104,7 +104,7 @@ body {
   
   .section-name {
     margin-top: 0px;
-    margin-bottom: 46px;
+    margin-bottom: 0px;
     font-size: 26px;
     line-height: 1.2em;
     text-align: right;
@@ -112,8 +112,8 @@ body {
   }
   
   .description {
-    margin-bottom: -20px;
-    line-height: 0em; /* было 1.4*/
+    margin-bottom: 0px;
+    line-height: 1.4em;
   }
   
   .line {
